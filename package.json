@@ -49,8 +49,8 @@
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
     "uglify-js": "3.2.2",
-    "webpack": "3.10.0",
-    "webpack-stream": "4.0.0"
+    "webpack": "5.75.0",
+    "webpack-stream": "7.0.0"
   },
   "resolutions": {
     "graceful-fs": "4.2.3"
